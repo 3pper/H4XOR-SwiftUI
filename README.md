@@ -4,7 +4,13 @@
 
 News app on SwiftUI where you can see some top news
 
-<img src="https://github.com/3pper/ARDicee/blob/main/IMG_5014.PNG" width="500">
+All news
+
+<img src="https://github.com/3pper/H4XOR-SwiftUI/blob/main/Documents/image1.png" width="500">
+
+Information about this news
+
+<img src="https://github.com/3pper/H4XOR-SwiftUI/blob/main/Documents/image2.png" width="500">
 
 ## How to install 
 
